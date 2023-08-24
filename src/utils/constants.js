@@ -13,12 +13,10 @@ import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 import logoMain from "../assests/logo.svg";
 
-// export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
 export const logo = logoMain;
 
 export const categories = [
   { name: "Home", icon: <HomeIcon /> },
-  // { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
